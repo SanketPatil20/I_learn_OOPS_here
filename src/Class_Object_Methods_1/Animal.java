@@ -1,4 +1,4 @@
-package Lec_1;
+package Class_Object_Methods_1;
 
 public class Animal {
 
