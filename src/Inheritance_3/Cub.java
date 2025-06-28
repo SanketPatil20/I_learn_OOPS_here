@@ -29,7 +29,7 @@ public class Cub extends Tiger {
         king.sleep();
         king.eat();
 
-        System.out.println("--------------------------------");
+        System.out.println("----------Cub class will inherit both ZooAnimal and Tiger class----------------------");
 
         Cub simba = new Cub();
         simba.sleep();
