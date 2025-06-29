@@ -23,7 +23,7 @@ class Deer extends WildAnimal {
         l1.jungle();
         l1.roar();
 
-        System.out.println("------------------------------------------");
+        System.out.println("-----------------------------------------");
 
         Deer d1 = new Deer();
         d1.jungle();
