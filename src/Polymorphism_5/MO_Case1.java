@@ -19,4 +19,4 @@ public class MO_Case1 {
     }
 }
 
-//Will give output of int method due to AUTOMATIC PROMOTION
+//Will give output of int method due to AUTOMATIC PROMOTION(read it from notebook)
