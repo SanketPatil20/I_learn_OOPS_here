@@ -5,6 +5,7 @@ class thisKeyword {
 
     void setValue(int i) {
         this.i = i;
+        //here, this.i refers to the instance variable while later i refers to the local variable
     }
 
     void getValue() {
