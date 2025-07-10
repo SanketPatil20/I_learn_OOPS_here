@@ -1,4 +1,4 @@
-package FinalKeyword;
+package FinalKeyword_14;
 
 class Demo {
     final void m1(){
@@ -9,7 +9,7 @@ class Demo {
 public class Test extends Demo {
 
     //overriding m1 method here
-    //Error: cannot override m1() in FinalKeyword.Demo overridden method is final
+    //Error: cannot override m1() in FinalKeyword_14.Demo overridden method is final
 //    void m1(){
 //        System.out.println("Calling from class Test");
 //    }
