@@ -3,7 +3,7 @@ package StaticKeyword;
 class Employee {
     int empid;
     String name;
-    static String company = "Cisco";
+    static String company = "Cisco"; //Company kept static
 
     void display() {
         System.out.println(empid + " " + name + " " + company);
