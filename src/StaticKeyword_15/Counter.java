@@ -1,4 +1,4 @@
-package StaticKeyword;
+package StaticKeyword_15;
 
 public class Counter {
 
